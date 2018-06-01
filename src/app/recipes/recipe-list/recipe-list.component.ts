@@ -9,7 +9,7 @@ export class RecipeListComponent implements OnInit {
     new Recipe('A Test recipe', 'This is simply a test', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAkrvyCAdsBeGicpX_7n4RtJ1R' +
         'rgad_R4anqIPvPdAF3DKPy5-'),
     // tslint:disable-next-line:max-line-length
-    new Recipe('A Test recipe', 'This is simply a test', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAkrvyCAdsBeGicpX_7n4RtJ1R' +
+    new Recipe('A another recipe', 'This is simply a test 3', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAkrvyCAdsBeGicpX_7n4RtJ1R' +
         'rgad_R4anqIPvPdAF3DKPy5-')
   ];
   constructor() {}
